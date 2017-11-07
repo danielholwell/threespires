@@ -30,7 +30,7 @@
                             <li><a href="events.html">Events</a></li>
                             <li><a href="saxongold.html">Saxon Gold</a></li>
                             <li><a href="gallery.html">Gallery</a></li>
-                            <li class="active"><a href="contact.html">Contact</a></li>
+                            <li class="active"><a href="contact.php">Contact</a></li>
             
                    </ul>
                    </ul>
