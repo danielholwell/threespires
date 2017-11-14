@@ -32,29 +32,6 @@
     text-align: center;
 }
 
-.table {
-    padding-bottom: 50px;
-    padding-left: 50px;
-    padding-right: 300px;
-    padding-top: 50px;
-}
-
-table.img {
-  margin: 5px;
-  border: 1px solid #ccc;
-  float: left;
-  width: 180px;
-}
-
-table.img:hover {
-  border: 1px solid #777;
-  transform: scale(1.05);
-  box-shadow: 0 0 10px rgba(0,0,0,1);
-}
-
-table.img {
-  width: 100%;
-  height: auto;
 }
 
 img {
@@ -69,5 +46,8 @@ img {
   width: 130px;
 }
 
+.margin {
+    margin-top: 2px;
+}
 
 
