@@ -1,0 +1,53 @@
+.page-header {
+    margin-top: 0;
+}
+.panel-body {
+    padding-top: 0;
+}
+
+.FeatureImgHistory {
+    width: 1000px;
+    height: 327px;
+}
+
+.FeatureImgHistory {
+    padding-bottom: 15px;
+}
+
+.hide-bullets {
+    list-style:none;
+    margin-left: -40px;
+    margin-top:20px;
+}
+
+.thumbnail {
+    padding: 0;
+}
+
+.navbar-btn {
+    color: #00aced;
+}
+
+.title {
+    text-align: center;
+}
+
+}
+
+img {
+  border: 5px solid black;
+}
+
+.sidebar {
+  font-size: large;
+  font-family: fantasy;
+  color: #ffffff;
+  float: left;
+  width: 130px;
+}
+
+.margin {
+    margin-top: 2px;
+}
+
+
